@@ -16,6 +16,10 @@ Then, I show you the step by step process of how to serve this model through an 
     <img width="100%" src="https://utils-computervisiondeveloper.s3.amazonaws.com/media/public/BuildAndDeployModelSagemaker/pipeline.jpg" alt="Machine learning API pipeline.">
 </p>
 
+## code
+
+You can download the jupyter notebook and the lambda function I used in this tutorial [here](https://bit.ly/46Qk2Dt).
+
 ## data
 
 In this tutorial I used the [Iris dataset](https://archive.ics.uci.edu/dataset/53/iris). 
